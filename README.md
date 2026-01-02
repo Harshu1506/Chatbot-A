@@ -1,6 +1,6 @@
-# Thriya – Beginner Virtual Assistant
+#Beginner Virtual Assistant
 
-Thriya is a beginner-level rule-based virtual assistant developed using Python and Tkinter.
+Beginner-level rule-based virtual assistant developed using Python and Tkinter.
 The chatbot responds to user queries using predefined rules and provides basic interaction
 through a graphical user interface.
 
@@ -13,3 +13,4 @@ through a graphical user interface.
 ## Technologies Used
 - Python
 - Tkinter
+
